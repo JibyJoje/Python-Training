@@ -2,7 +2,7 @@
 This repository contains some sample Python codes from the Automate-the-Boring-Stuff-with-Python Udemy Training
 
 ---
-## <u>Basic Terminology and using IDLE </u>
+## Basic Terminology and using IDLE 
 
 - <b> Expression </b> - Every expression constitutes of values and operators, e.g. ( 2 + 5) and the expression evaluates to give us another single value.
 - <b> Operators </b> - Any operation that must be performed on a given value are called as operators. Some of the operators that are supported in Python are as listed below.
@@ -26,4 +26,47 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 	* Set - set
 	* Boolean - bool 
  
-- <b> Variables </b> - You can store the values in memory by using variables and you can assign the values to these variables using the assignment operator (=).  
+- <b> Variables </b> - You can store the values in memory by using variables and you can assign the values to these variables using the assignment operator (=). 
+
+
+## Boolean Expressions and Operators:
+
+- **Boolean Expressions** - Boolean Expressions can contain either 'True' or 'False'.
+- **Boolean Operators** - Boolean Operators are expressions that can evaluate to a Boolean Value i.e. 'True' or 'False'. The Boolean Operators or the Logical Operators are **And, Or and Not**
+
+### The 'OR' operator Truth Table:
+
+| Expression | Evaluates to  |
+|--|--|
+| True or True | True  |
+|True or False | True |
+|False or True| True|
+|False or False| False|
+
+### The 'AND' operator Truth Table:
+
+| Expression | Evaluates to  |
+|--|--|
+|True and True | True|
+|True and False | False|
+|False and True | False|
+|False and False| False|
+
+### The 'NOT' operator Truth Table:
+
+| Expression | Evaluates to  |
+|--|--|
+|not True | False  |
+|not False | True |
+
+
+
+
+
+
+
+
+
+
+
+
