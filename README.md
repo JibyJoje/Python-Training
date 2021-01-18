@@ -87,6 +87,9 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 
 - Python has a large number of Built-in functions that can support the users to achieve the most commonly used or the perform the common tasks. The functionalities of these Built-in functions are pre-defined and can be used to perform several functions. Some of the commonly used Built-in functions are **print(), int(), len(), abs(), append() etc.**
 
+- The **import** statement can be used to import new modules and get access to new functions
+    * `import <module_name>` -  But you have to use the function in the following way `module_name.function_name()`
+    * `from <module_name> import function_name` - Then you can invoke the function without having to mention the module name just by `function_name()`
 
 
 
