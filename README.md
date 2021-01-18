@@ -15,7 +15,7 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
      * Membership operators (in, not in)
      * Bitwise operators (&, |, ~ ^)
      
-  <b> Note:</b> The operators are calculated in the order of precedency where Multiplication and Division are operated first and then Addition and Subtraction. 
+  ><b> Note:</b> The operators are calculated in the order of precedency where Multiplication and Division are operated first and then Addition and Subtraction. 
 
 - <b> Data Type </b> - Every value that is written in the Python programming language has an Data Type associated with it. The most common types of Data Types are as listed below:
 
