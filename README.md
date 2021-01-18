@@ -69,6 +69,13 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 
 - **elif Statement** - The **elif** statement is used when you need to have multiple i.e. more than two conditions to be checked. The block of code that evaluates to **'True'** is executed.
 
+### While Loops:
+
+- **While Loops** - The **'While'** loops statements are used when you want to run a block of code for a specified number of times or if you want to run a block of code until the condition of the statement evaluates to **'False'**. The **'While'** loop statements are **'Entry Check Loops'** meaning that the condition is checked before entering the loop and exits when the condition is not satisfied. i.e. The Loop will not run even once if the condition is not satisfied.
+
+    * **Break Statements** -  The **Break Statements** are used when you want to exit/break a block of code and resumes execution at the next statement
+    * **Continue Statement** - The **Continue Statements** are used when you want to return the control to the beginning of the while loop. The continue statement rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop. The continue statement can be used in both while and for loops.
+
 
 
 
