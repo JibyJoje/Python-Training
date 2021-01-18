@@ -76,6 +76,10 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
     * **Break Statements** -  The **Break Statements** are used when you want to exit/break a block of code and resumes execution at the next statement
     * **Continue Statement** - The **Continue Statements** are used when you want to return the control to the beginning of the while loop. The continue statement rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop. The continue statement can be used in both while and for loops.
 
+- **For Loops** - The **For** loops can be used when you know how many number of times you want to run the loop. The **While** loop can be used to achieve the same results, but the **For** loop is the most defined way to code when you know how many times you want to run the loop.
+
+
+
 
 
 

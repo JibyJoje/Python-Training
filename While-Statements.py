@@ -20,3 +20,14 @@ while True:
 		break
 print('Exiting the Infinite While Loop')
 
+
+#This is an Example of While Loop with a Continue Statement
+
+print('Entering the while loop with the continue statement')
+value=0
+while (value<=5):
+	value+=1
+	if (value==3):
+		continue
+	print('The Value is '+str(value))
+print('Exiting the while loop')
