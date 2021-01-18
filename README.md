@@ -81,6 +81,14 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 
 - **For Loops** - The **For** loops can be used when you know how many number of times you want to run the loop. The **While** loop can be used to achieve the same results, but the **For** loop is the most defined way to code when you know how many times you want to run the loop.
 
+## Functions in Python:
+
+### Built-in Functions:
+
+- Python has a large number of Built-in functions that can support the users to achieve the most commonly used or the perform the common tasks. The functionalities of these Built-in functions are pre-defined and can be used to perform several functions. Some of the commonly used Built-in functions are **print(), int(), len(), abs(), append() etc.**
+
+
+
 
 
 
