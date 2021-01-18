@@ -13,7 +13,7 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
      * Logical operators (and or not)
      * Identity operators (is, is not)
      * Membership operators (in, not in)
-     * Bitwise operators (&, |, ~, ^)
+     * Bitwise operators (&, |, ~ ^)
      
   <b> Note:</b> The operators are calculated in the order of precedency where Multiplication and Division are operated first and then Addition and Subtraction. 
 
@@ -59,7 +59,15 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 |not True | False  |
 |not False | True |
 
+## Conditional Statements:
 
+### if, else and elif Statements:
+
+- **if Statement** - The **'if'** statement is used to check if the variable matches a particular value or not. If the expression evaluates to **'True'** then the block of code under the **'if'** statement is executed. 
+
+- **else Statement** - The **else** statement is used if you want to have more than one condition to be checked. If the expression evaluates to **'True'** then the block of code under the **'if'** statement is executed. Otherwise the block of code under the **'else'** statement is executed. 
+
+- **elif Statement** - The **elif** statement is used when you need to have multiple i.e. more than two conditions to be checked. The block of code that evaluates to **'True'** is executed.
 
 
 
