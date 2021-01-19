@@ -101,6 +101,21 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 
 - You can also pass parameters to your functions and such functions are called as **Parameterized Functions** and can accept arguments depending on the number of parameters the function accepts.
 
+### Global and Local Scopes:
+
+- A program can contain both **Global and Local Variables**. The variables that are declared and defined in the Global scope i.e. outside of any functions is called as a **Global Variable**, whereas the variables that are declared and defined within the local scope i.e. within a function is called as a **Local Variable**.
+
+- The variable name inside a local scope can be same as the variable name in a global scope.
+
+- The variables that are declared in the global scope can be accessed inside the functions i.e. local scope
+
+- The variables that are declared in the local scope cannot be accessed outside in the global scope.
+
+- The variables declared in one local scope cannot be accessed in another local scope.
+
+- The global variables are declared and assigned a memory when the program starts and is de-allocated when the program ends
+
+- The local variables are assigned a memory when the function is called and is de-allocated when the function ends.
 
 
 
