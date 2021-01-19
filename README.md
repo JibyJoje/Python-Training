@@ -91,6 +91,18 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
     * `import <module_name>` -  But you have to use the function in the following way `module_name.function_name()`
     * `from <module_name> import function_name` - Then you can invoke the function without having to mention the module name just by `function_name()`
 
+### User Defined Functions:
+
+- Users can write their own functions in Python using the `def function_name()` statement and execute the function by just calling the `function_name()` where you want to execute it. 
+
+- Users should consider defining functions where ever necessary where they are finding themselves using the same block of code again and again in order to prevent duplicating. 
+
+- Functions also provide better readability, better run-time, and in-case you want to change what the code does, you just have to change it in the function rather than multiple lines of code.
+
+- You can also pass parameters to your functions and such functions are called as **Parameterized Functions** and can accept arguments depending on the number of parameters the function accepts.
+
+
+
 
 
 
