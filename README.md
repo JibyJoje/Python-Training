@@ -118,6 +118,16 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 - The local variables are assigned a memory when the function is called and is de-allocated when the function ends.
 
 
+## Error Handling:
+
+- Errors can cause the program to crash
+
+- A **divide-by-zero** error happens when you divide a number by Zero
+
+- Errors can be handled within Python using the **try and except** statements.
+
+- An error that happens inside a `try` block will cause code in the `except` block to execute
+
 
 
 
