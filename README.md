@@ -128,6 +128,16 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 
 - An error that happens inside a `try` block will cause code in the `except` block to execute
 
+## Data Types in Python:
+
+### Lists:
+
+- A list is created by placing all the items inside square brackets `[]` separated by commas.
+- It can have any number of items that belong to different datatypes like `int, float, String, etc`.
+- A list can also have another list as an item within it called as the `nested list`.
+- Similar to `Strings`, lists are also indexed and start with the index of 0.
+- The value of a list can be acccessed in the follow way `list_name[index]`.
+- The items inside a list can be deleted by `del list_name[index]`.
 
 
 
