@@ -7,7 +7,7 @@ myList = ['This', 'is', 'a', 'Simple', 'Lists', 'Array'] #declaring and defining
 #printing the lists and the items at each index
 print ('The items of the lists are: '+str(myList))
 for items in range(len(myList)) :
-	print(' The item at the index '+str(items)+' is :'+str(myList[items]))
+	print(' The item at the index '+str(items)+' is :'+myList[items])
 
 #Replacing items in a list
 print('-------------------------------')
