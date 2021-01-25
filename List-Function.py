@@ -18,4 +18,31 @@ while True:
 
 print("There are now total of "+str(len(myList))+ " in your list")
 
+print("Using Index Function")
+print('Enter the item from the list whose index you want to find: ')
+myValue = input()
+print('The index of '+myValue+' is '+str(myList.index(myValue)))
+
+print("Using Insert Function")
+print('Enter at which index you want to enter the new item: ')
+newIndex = input()
+print('Enter the new item you want to add at '+newIndex+' :')
+newItem = input()
+myList.insert(int(newIndex), newItem)
+print(myList)
+
+print('Using the Sort function')
+myList.sort()
+print('Sorted List :'+str(myList))
+myList.sort(reverse=True)
+print('Reverse Sorted List: '+str(myList))		
+
+
+
+
+
+
+
+
+
 
