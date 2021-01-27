@@ -133,23 +133,69 @@ This repository contains some sample Python codes from the Automate-the-Boring-S
 ### Lists:
 
 - A list is created by placing all the items inside square brackets `[]` separated by commas.
+
 - It can have any number of items that belong to different data types like `int, float, String, etc`.
+
 - A list can also have another list as an item within it called as the `nested list`.
+
 - Similar to `Strings`, lists are also indexed and start with the index of 0.
+
 - The value of a list can be accessed in the follow way `list_name[index]`.
+
 - The items inside a list can be deleted by `del list_name[index]`.
 
 #### List Functions:
 
 - The `index()` method returns the index at which the `value` is present within the list.
+
 - The `append()` method adds the new item to the end of the list.
+
 - The `insert()` method adds the new item at the index that is mentioned as a parameter. `e.g. insert(1, "Jiby")`
+
 - the `remove()` method accepts the value as a parameter and then removes this value from the list. If there are duplicate values then the first occurrence of the item is removed from the list.
+
 - The difference between the `del myList[index]` and the `remove()` function is that the `del function` accepts an index value where as the `remove()` function accepts the value of the item itself.
+
 - The `sort()` method can be used to sort the items in a list in an sorted order.
+
 - The `sort(reverse=True)` will sort the list in the reverse order.
+
 - The `sort(key=str.lower)` will sort the list in an true alphabetical order.
- 
+
+
+## More about Strings:
+
+### Advanced String Syntax:
+
+- Python accepts anything in between `Single Quotes ('')` and `Double Quotes (" ")` as Strings.
+
+- You can type anything in between `Double Quotes` if you want to achieve something like `Jiby's`. e.g. `print("Jiby's")`
+
+- You can also use the raw format for print strings within Python. Just include a `small (r)` in-front of the string outside the quotes to read in the raw format e.g. `print(r"This is Jiby's Car."This is a statement in Double Quotes"")`
+
+- If you want to print a multi-line string then you can use `Triple Quotes (```)`. Any statement within these triple quotes will be read and printed as it is. 
+
+
+### String Functions:
+
+- The `upper()` method will return the entire string in all upper case.
+
+- The `lower()` method will return the entire string in all lower case.
+
+- The `islower()` method checks if the given string is all lower case.
+
+- The `isupper()` method checks if the given string is all upper case.
+
+- There are other functions that are available with Strings as found below:
+
+| Function | Action |
+|--|--|
+|isalpha()| Letters only |
+|isalnum()| Letters and Numbers only |
+|isdecimal()| Numbers only |
+|isspace()| Spaces only |
+|istitle()| Title Case only| 
+
 
 
 
